@@ -6,7 +6,7 @@ import { Buttons } from "./Buttons";
 function Hero() {
   return (
     <div className="hero-container">
-      <video sc="assets/background-video.mp4" autoPlay loop muted />
+      {/* <video sc="/assets/video-2.mp4" autoPlay loop muted />s */}
       <h1>ADVENTURE AWAITS</h1>
       <p>What are you waiting for?</p>
       <Buttons

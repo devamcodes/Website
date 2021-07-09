@@ -33,7 +33,7 @@ function Cards() {
               alt="Mountaining"
             />
             <CardItems
-              src="C:\Users\devam\OneDrive\Desktop\projects\Personal Website\personal_website_2\website\src\assets\img12.jpeg"
+              src="assets/img12.jpeg"
               text="Explore The  Amazon Jungle"
               label="Adventure"
               path="/sign-up"
