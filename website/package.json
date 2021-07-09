@@ -1,0 +1,31 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "basic react website",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "web-vitals": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devamcodes/Website.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Devam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devamcodes/Website/issues"
+  },
+  "homepage": "https://github.com/devamcodes/Website#readme"
+}
