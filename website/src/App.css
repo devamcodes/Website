@@ -26,7 +26,7 @@
 }
 
 .products {
-  background-image: url("assets/img1.png");
+  background-image: url("assets/img1.jpeg");
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -35,7 +35,7 @@
 }
 
 .sign-up {
-  background-image: url("assets/img8.png");
+  background-image: url("assets/img8.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
