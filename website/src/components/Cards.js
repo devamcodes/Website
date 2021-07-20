@@ -17,7 +17,7 @@ function Cards() {
               alt="Travel"
             />
             <CardItems
-              src="assets/img10.jpeg"
+              src="./img/img10.jpeg"
               text="Explore The  Iinside The Amazon Jungle"
               label="Adventure"
               path="/services"
@@ -26,14 +26,14 @@ function Cards() {
           </ul>
           <ul className="cards__items">
             <CardItems
-              src="assets/img11.jpeg"
+              src="./img/img11.jpeg"
               text="Explore The  The Amazon Jungle"
               label="Adventure"
               path="/products"
               alt="Mountaining"
             />
             <CardItems
-              src="assets/img12.jpeg"
+              src="./img/img12.jpeg"
               text="Explore The  Amazon Jungle"
               label="Adventure"
               path="/sign-up"
